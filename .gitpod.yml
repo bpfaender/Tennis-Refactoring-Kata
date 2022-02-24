@@ -1,0 +1,7 @@
+tasks:
+  - init: pip install -U pytest
+
+vscode:
+  extensions:
+    - ms-python.python
+    - littlefoxteam.vscode-python-test-adapter
